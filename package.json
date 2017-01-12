@@ -1,0 +1,19 @@
+{
+  "name": "my-material-design",
+  "version": "1.0.0",
+  "description": "backbone with material design",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean F",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.0.0",
+    "material-design-lite": "^1.3.0",
+    "run-sequence": "^1.2.2"
+  }
+}
